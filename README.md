@@ -1,5 +1,5 @@
 # Athifa-NM.ipynb
-# 🚑🤖 Healthcare Diagnostics and Treatment
+# Healthcare Diagnostics and Treatment
 
 This project presents an AI-powered healthcare assistant that aids in early diagnosis and treatment recommendation. By integrating machine learning, real-time vitals simulation, chatbot interfaces, and data visualization, it enables smarter healthcare decisions for both patients and practitioners.
 
